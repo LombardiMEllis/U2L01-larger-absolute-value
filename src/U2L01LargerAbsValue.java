@@ -10,6 +10,8 @@ public class U2L01LargerAbsValue {
 		
 		double answer = largerAbsVal(-21.3, 12);
 		System.out.println(answer);
+		//answer = Math.pow(2, 6);
+		//System.out.println(answer);
 
 	}
 	
